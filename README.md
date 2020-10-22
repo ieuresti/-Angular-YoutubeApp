@@ -1,6 +1,10 @@
-# YoutubeApp
+# Notas:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+
+Recordatorio que se deben de reconstruir los módulos de node con el comando
+
+npm install
 
 ## Development server
 
